@@ -1,1 +1,1 @@
-# 7.1
+Testing the automatic Jenkins pipeline trigger.
